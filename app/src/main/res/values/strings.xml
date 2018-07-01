@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="invalid_input">[*_*] Empty Fields +/- In valid port</string>
+</resources>
